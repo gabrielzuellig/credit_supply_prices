@@ -59,7 +59,7 @@ do $projectpath/data/5_demand_elasticities/8_SC_combine_results_byCN2
 do $projectpath/analysis/1_sample_descriptives/1_sample_descriptives
 do $projectpath/analysis/1_sample_descriptives/2_piecharts_industry
 do $projectpath/analysis/1_sample_descriptives/3_loans_micro_vs_balance_sheets
-do $projectpath/analysis/1_sample_descriptives/4_uhdm_vs_ppi_comparison  /// TODO: COMMENTS MISSING HERE!
+do $projectpath/analysis/1_sample_descriptives/4_uhdm_vs_ppi_comparison  
 
 
 *** First stage 
